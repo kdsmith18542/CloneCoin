@@ -281,7 +281,7 @@ CloneCoin is a cryptocurrency project originally developed in 2015, based on Bit
 
 #### Week 1-2: GitHub Actions Setup
 - [ ] **Build Automation**
-  - Linux builds (Ubuntu 20.04, 22.04)
+  - Linux builds (Ubuntu 22.04 LTS, 24.04 LTS)
   - macOS builds (latest 2 versions)
   - Windows builds (MSVC and MinGW)
   - Build artifacts storage
